@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://aryantyagi.vercel.app/>Portfolio</a> •
-  <a href="https://www.linkedin.com/in/aryan-tyagi-/">LinkedIn</a> •
-  <a href="mailto:aryant214@gmail.com">Email</a>
+<a href="https://aryantyagi.vercel.app/">Portfolio</a> •
+<a href="https://www.linkedin.com/in/aryan-tyagi-/">LinkedIn</a> •
+<a href="mailto:aryant214@gmail.com">Email</a>
 </p>
 
 <hr>
