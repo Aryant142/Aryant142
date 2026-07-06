@@ -74,10 +74,6 @@ When I'm not training models or testing APIs, you can find me solving algorithmi
 ---
 
 ### GitHub Stats
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Aryant142&layout=compact&theme=nord" alt="Top Languages" height="195" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryant142&theme=react&bg_color=0D1117&line=00D2FF&point=FFFFFF&area=true&hide_border=true" alt="Aryan's Contribution Graph" />
 </p>
 
