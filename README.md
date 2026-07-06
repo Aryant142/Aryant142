@@ -15,7 +15,7 @@
 
 ### About
 
-I'm an AI/ML Undergraduate specializing in Computer Science (Artificial Intelligence & Machine Learning) at G. L. Bajaj Institute of Technology and Management. I focus on developing production-grade machine learning models, computer vision pipelines, and robust full-stack AI driven applications.
+I'm an AI/ML Undergraduate specializing in Computer Science (Artificial Intelligence & Machine Learning) focusing on developing production-grade machine learning models, computer vision pipelines , testing APIs and robust full-stack AI driven applications.
 
 Currently, I'm working as a **Software Intern at Agile FAQs Technology Private Limited**, where I leverage Specmatic to transform API specifications into executable contracts, automate contract testing, and optimize API reliability.
 
