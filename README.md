@@ -7,7 +7,6 @@
 <p align="center">
   <a href="https://github.com/Aryant142">Portfolio</a> •
   <a href="https://www.linkedin.com/in/aryan-tyagi-/">LinkedIn</a> •
-  <a href="https://leetcode.com/u/Aryant142/">LeetCode</a> •
   <a href="mailto:aryant214@gmail.com">Email</a>
 </p>
 
